@@ -1,12 +1,16 @@
 # TypoMeter
 
-A sleek, real-time typing speed test application built with React. Measure your typing speed (WPM), track accuracy, and compete with your personal best scores!
+A sleek typing speed test app built with React.
+
+## 🚀 Live Demo
+
+Try it here: **[https://typometer-0203.web.app](https://typometer-0203.web.app)**
 
 ## Features
 
 ✨ **Real-Time Performance Tracking**
 - Live WPM (Words Per Minute) calculation
-- Accuracy percentage displayed as you type
+- Accuracy percentage displayed as you type 
 - Instant visual feedback with color-coded characters
 
 🎨 **Dark Mode Support**
